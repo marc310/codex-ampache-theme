@@ -1,9 +1,9 @@
 ## Codex Ampache Theme ##
 
-name = "Codex"
-colors = "Dark,Light"
-author = "marc310"
-maintainer = "marc310 - contato@marcelomotta.com"
+  name = "Codex"
+  colors = "Dark,Light"
+  author = "marc310"
+  maintainer = "marc310 - contato@marcelomotta.com"
 
 ## Descrição
 
