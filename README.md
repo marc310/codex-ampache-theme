@@ -1,9 +1,9 @@
 ## Codex Ampache Theme ##
 
-  name = "Codex"
-  colors = "Dark,Light"
-  author = "marc310"
-  maintainer = "marc310 - contato@marcelomotta.com"
+  name = "Codex" <br>
+  colors = "Dark,Light" <br>
+  author = "marc310" <br>
+  maintainer = "marc310 - contato@marcelomotta.com" <br>
 
 ## Descrição
 
@@ -12,11 +12,6 @@ Minhas modificações pessoais pra melhorar meu uso, acho o sistema ótimo mas a
 #
 #
 #
-*************************************************************************************
-
-#Tema desenvolvido a partir da descrição contido na documentação
-Fonte: https://github.com/ampache
-
 *************************************************************************************
 
 Copyright 2001 - 2017 Ampache.org
@@ -33,5 +28,10 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program; if not, write to the Free Software
 Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
+
+*************************************************************************************
+
+#Tema desenvolvido a partir da descrição contido na documentação
+Fonte: https://github.com/ampache
 
 *************************************************************************************
