@@ -1,11 +1,10 @@
 ## Codex Ampache Theme ##
-*
+
 name = "Codex"
 colors = "Dark,Light"
 author = "marc310"
 maintainer = "marc310 - contato@marcelomotta.com"
-*
-*
+
 ## Descrição
 
 Minhas modificações pessoais pra melhorar meu uso, acho o sistema ótimo mas a interface nao é amigavel, entao pra melhorar minha navegação no meu servidor pessoal fiz algumas modificações, principalmente pra que se torne responsivo, por muitas vezes quero usalo no celular e isso torna cansativo de mudar o artista ou montar uma nova playlist...
