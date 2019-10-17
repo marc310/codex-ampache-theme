@@ -1,0 +1,136 @@
+[06-Oct-2019 11:53:30 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare_media() on null in /home/mundo458/public_html/play.marcelomotta.com/play/index.php:331
+Stack trace:
+#0 {main}
+  thrown in /home/mundo458/public_html/play.marcelomotta.com/play/index.php on line 331
+[06-Oct-2019 11:53:31 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare_media() on null in /home/mundo458/public_html/play.marcelomotta.com/play/index.php:331
+Stack trace:
+#0 {main}
+  thrown in /home/mundo458/public_html/play.marcelomotta.com/play/index.php on line 331
+[06-Oct-2019 11:53:54 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare_media() on null in /home/mundo458/public_html/play.marcelomotta.com/play/index.php:331
+Stack trace:
+#0 {main}
+  thrown in /home/mundo458/public_html/play.marcelomotta.com/play/index.php on line 331
+[06-Oct-2019 11:54:02 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare_media() on null in /home/mundo458/public_html/play.marcelomotta.com/play/index.php:331
+Stack trace:
+#0 {main}
+  thrown in /home/mundo458/public_html/play.marcelomotta.com/play/index.php on line 331
+[06-Oct-2019 11:54:27 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare_media() on null in /home/mundo458/public_html/play.marcelomotta.com/play/index.php:331
+Stack trace:
+#0 {main}
+  thrown in /home/mundo458/public_html/play.marcelomotta.com/play/index.php on line 331
+[06-Oct-2019 12:05:21 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare_media() on null in /home/mundo458/public_html/play.marcelomotta.com/play/index.php:331
+Stack trace:
+#0 {main}
+  thrown in /home/mundo458/public_html/play.marcelomotta.com/play/index.php on line 331
+[06-Oct-2019 12:05:21 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare_media() on null in /home/mundo458/public_html/play.marcelomotta.com/play/index.php:331
+Stack trace:
+#0 {main}
+  thrown in /home/mundo458/public_html/play.marcelomotta.com/play/index.php on line 331
+[06-Oct-2019 12:05:25 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare_media() on null in /home/mundo458/public_html/play.marcelomotta.com/play/index.php:331
+Stack trace:
+#0 {main}
+  thrown in /home/mundo458/public_html/play.marcelomotta.com/play/index.php on line 331
+[06-Oct-2019 12:05:26 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare_media() on null in /home/mundo458/public_html/play.marcelomotta.com/play/index.php:331
+Stack trace:
+#0 {main}
+  thrown in /home/mundo458/public_html/play.marcelomotta.com/play/index.php on line 331
+[06-Oct-2019 12:05:26 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare_media() on null in /home/mundo458/public_html/play.marcelomotta.com/play/index.php:331
+Stack trace:
+#0 {main}
+  thrown in /home/mundo458/public_html/play.marcelomotta.com/play/index.php on line 331
+[06-Oct-2019 12:05:38 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare_media() on null in /home/mundo458/public_html/play.marcelomotta.com/play/index.php:331
+Stack trace:
+#0 {main}
+  thrown in /home/mundo458/public_html/play.marcelomotta.com/play/index.php on line 331
+[06-Oct-2019 12:05:38 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare_media() on null in /home/mundo458/public_html/play.marcelomotta.com/play/index.php:331
+Stack trace:
+#0 {main}
+  thrown in /home/mundo458/public_html/play.marcelomotta.com/play/index.php on line 331
+[06-Oct-2019 12:05:38 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare_media() on null in /home/mundo458/public_html/play.marcelomotta.com/play/index.php:331
+Stack trace:
+#0 {main}
+  thrown in /home/mundo458/public_html/play.marcelomotta.com/play/index.php on line 331
+[06-Oct-2019 12:05:52 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare_media() on null in /home/mundo458/public_html/play.marcelomotta.com/play/index.php:331
+Stack trace:
+#0 {main}
+  thrown in /home/mundo458/public_html/play.marcelomotta.com/play/index.php on line 331
+[06-Oct-2019 12:05:56 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare_media() on null in /home/mundo458/public_html/play.marcelomotta.com/play/index.php:331
+Stack trace:
+#0 {main}
+  thrown in /home/mundo458/public_html/play.marcelomotta.com/play/index.php on line 331
+[06-Oct-2019 12:32:51 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare_media() on null in /home/mundo458/public_html/play.marcelomotta.com/play/index.php:331
+Stack trace:
+#0 {main}
+  thrown in /home/mundo458/public_html/play.marcelomotta.com/play/index.php on line 331
+[06-Oct-2019 12:32:52 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare_media() on null in /home/mundo458/public_html/play.marcelomotta.com/play/index.php:331
+Stack trace:
+#0 {main}
+  thrown in /home/mundo458/public_html/play.marcelomotta.com/play/index.php on line 331
+[06-Oct-2019 12:36:15 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare_media() on null in /home/mundo458/public_html/play.marcelomotta.com/play/index.php:331
+Stack trace:
+#0 {main}
+  thrown in /home/mundo458/public_html/play.marcelomotta.com/play/index.php on line 331
+[06-Oct-2019 12:36:16 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare_media() on null in /home/mundo458/public_html/play.marcelomotta.com/play/index.php:331
+Stack trace:
+#0 {main}
+  thrown in /home/mundo458/public_html/play.marcelomotta.com/play/index.php on line 331
+[06-Oct-2019 12:36:38 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare_media() on null in /home/mundo458/public_html/play.marcelomotta.com/play/index.php:331
+Stack trace:
+#0 {main}
+  thrown in /home/mundo458/public_html/play.marcelomotta.com/play/index.php on line 331
+[06-Oct-2019 12:36:39 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare_media() on null in /home/mundo458/public_html/play.marcelomotta.com/play/index.php:331
+Stack trace:
+#0 {main}
+  thrown in /home/mundo458/public_html/play.marcelomotta.com/play/index.php on line 331
+[06-Oct-2019 12:36:39 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare_media() on null in /home/mundo458/public_html/play.marcelomotta.com/play/index.php:331
+Stack trace:
+#0 {main}
+  thrown in /home/mundo458/public_html/play.marcelomotta.com/play/index.php on line 331
+[06-Oct-2019 12:36:49 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare_media() on null in /home/mundo458/public_html/play.marcelomotta.com/play/index.php:331
+Stack trace:
+#0 {main}
+  thrown in /home/mundo458/public_html/play.marcelomotta.com/play/index.php on line 331
+[06-Oct-2019 12:36:50 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare_media() on null in /home/mundo458/public_html/play.marcelomotta.com/play/index.php:331
+Stack trace:
+#0 {main}
+  thrown in /home/mundo458/public_html/play.marcelomotta.com/play/index.php on line 331
+[06-Oct-2019 12:37:17 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare_media() on null in /home/mundo458/public_html/play.marcelomotta.com/play/index.php:331
+Stack trace:
+#0 {main}
+  thrown in /home/mundo458/public_html/play.marcelomotta.com/play/index.php on line 331
+[06-Oct-2019 12:37:26 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare_media() on null in /home/mundo458/public_html/play.marcelomotta.com/play/index.php:331
+Stack trace:
+#0 {main}
+  thrown in /home/mundo458/public_html/play.marcelomotta.com/play/index.php on line 331
+[06-Oct-2019 12:38:27 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare_media() on null in /home/mundo458/public_html/play.marcelomotta.com/play/index.php:331
+Stack trace:
+#0 {main}
+  thrown in /home/mundo458/public_html/play.marcelomotta.com/play/index.php on line 331
+[06-Oct-2019 12:38:27 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare_media() on null in /home/mundo458/public_html/play.marcelomotta.com/play/index.php:331
+Stack trace:
+#0 {main}
+  thrown in /home/mundo458/public_html/play.marcelomotta.com/play/index.php on line 331
+[06-Oct-2019 12:39:56 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare_media() on null in /home/mundo458/public_html/play.marcelomotta.com/play/index.php:331
+Stack trace:
+#0 {main}
+  thrown in /home/mundo458/public_html/play.marcelomotta.com/play/index.php on line 331
+[06-Oct-2019 12:39:56 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare_media() on null in /home/mundo458/public_html/play.marcelomotta.com/play/index.php:331
+Stack trace:
+#0 {main}
+  thrown in /home/mundo458/public_html/play.marcelomotta.com/play/index.php on line 331
+[06-Oct-2019 13:09:53 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare_media() on null in /home/mundo458/public_html/play.marcelomotta.com/play/index.php:331
+Stack trace:
+#0 {main}
+  thrown in /home/mundo458/public_html/play.marcelomotta.com/play/index.php on line 331
+[06-Oct-2019 13:10:41 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare_media() on null in /home/mundo458/public_html/play.marcelomotta.com/play/index.php:331
+Stack trace:
+#0 {main}
+  thrown in /home/mundo458/public_html/play.marcelomotta.com/play/index.php on line 331
+[06-Oct-2019 13:11:21 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare_media() on null in /home/mundo458/public_html/play.marcelomotta.com/play/index.php:331
+Stack trace:
+#0 {main}
+  thrown in /home/mundo458/public_html/play.marcelomotta.com/play/index.php on line 331
+[06-Oct-2019 13:13:52 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare_media() on null in /home/mundo458/public_html/play.marcelomotta.com/play/index.php:331
+Stack trace:
+#0 {main}
+  thrown in /home/mundo458/public_html/play.marcelomotta.com/play/index.php on line 331

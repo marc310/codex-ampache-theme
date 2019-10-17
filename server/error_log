@@ -1,0 +1,9 @@
+[06-Oct-2019 11:51:31 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function get_media_tags() on null in /home/mundo458/public_html/play.marcelomotta.com/lib/class/catalog.class.php:1546
+Stack trace:
+#0 /home/mundo458/public_html/play.marcelomotta.com/modules/catalog/local/local.catalog.php(581): Catalog::update_media_from_tags(Object(Song), Array, '%a/%A', '%T - %t')
+#1 /home/mundo458/public_html/play.marcelomotta.com/modules/catalog/local/local.catalog.php(533): Catalog_local->_verify_chunk('song', 0, 10000)
+#2 /home/mundo458/public_html/play.marcelomotta.com/lib/class/catalog.class.php(1864): Catalog_local->verify_catalog_proc()
+#3 /home/mundo458/public_html/play.marcelomotta.com/lib/class/catalog.class.php(2414): Catalog->verify_catalog()
+#4 /home/mundo458/public_html/play.marcelomotta.com/server/sse.server.php(67): Catalog::process_action('full_service', Array, Array)
+#5 {main}
+  thrown in /home/mundo458/public_html/play.marcelomotta.com/lib/class/catalog.class.php on line 1546

@@ -1,0 +1,17 @@
+{
+    "id": 36,
+    "include_adult": false,
+    "iso_3166_1": "US",
+    "iso_639_1": "en",
+    "name": "John Doe",
+    "username": "johndoe",
+    "avatar": [
+        {
+            "gravatar": [
+                {
+                    "hash": "3ac45d9d8125716b5a7503802c453b9b"
+                }
+            ]
+        }
+    ]
+}
