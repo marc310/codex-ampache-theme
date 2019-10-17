@@ -550,18 +550,3 @@ $_SESSION['login'] = false;
                 ?>
                 <div id="guts">
 
-<div class="wp-block-cover has-background-dim gd-primary rounded" style="background-image:url(../wp-content/uploads/2019/06/holder.png)"><div class="wp-block-cover__inner-container">
-<p style="text-align:center" class="has-large-font-size display"><strong>Discover songs you’ll love</strong></p>
-
-
-
-<p style="text-align:center" class="w-50">Find the most popular artists and listen their music on Bepop. Create your own playlist when listening to them.</p>
-
-
-
-<p></p>
-
-
-
-<div class="wp-block-button aligncenter text-primary"><a class="wp-block-button__link has-text-color has-vivid-green-cyan-color has-background" href="new-release/index.html" style="background-color:#ffffff">Explore the new music</a></div>
-</div></div>

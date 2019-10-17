@@ -20,7 +20,7 @@
  *
  */
 ?>
-<div id="play_type_switch">
+<!-- <div id="play_type_switch">
 <?php
 $name    = "is_" . AmpConfig::get('play_type');
 ${$name} = 'selected="selected" ';
@@ -63,4 +63,4 @@ else {
     echo T_(ucwords(AmpConfig::get('play_type')));
 }
 ?>
-</div>
+</div> -->

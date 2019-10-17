@@ -126,6 +126,7 @@ input[type=button]:focus:active, input[type=submit]:focus:active {
 
 #sb_Subsearch input[type=text] {
     border-color: #444;
+    margin-right: 50px;
 }
 
 #sb_Subsearch input[type=text]:focus {
