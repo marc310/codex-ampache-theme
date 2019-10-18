@@ -15,6 +15,7 @@ Tags: custom-colors, editor-style, featured-images, translation-ready
 @import url(default/assets/css/theme.min.css);
 @import url(default/assets/css/dist/buttons.min.css);
 @import url(default/assets/css/dist/dashicons.css);
+
 @import url(default/assets/css/dist/block-library/style.min.css);
 @import url(default/assets/css/dist/block-library/theme.min.css);
 

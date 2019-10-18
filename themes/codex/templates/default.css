@@ -8,14 +8,7 @@ Tags: custom-colors, editor-style, featured-images, translation-ready
 
 
 
-@font-face {
-    font-family: 'DejaVuSansCondensed';
-    src: url('fonts/dejavusanscondensed.eot');
-    src: url('fonts/dejavusanscondensed.eot') format('embedded-opentype'),
-         url('fonts/dejavusanscondensed.woff') format('woff'),
-         url('fonts/dejavusanscondensed.ttf') format('truetype'),
-         url('fonts/dejavusanscondensed.svg#DejaVuSansCondensed') format('svg');
-}
+
 
 /***********************************************
            General style rules
@@ -210,7 +203,7 @@ input[type=button]:focus:active, input[type=submit]:focus:active {
 
 #header #headerlogo {
     float:left;
-    width: 20%;
+    width: 10%;
 }
 
 #header #headerlogo img {
@@ -219,7 +212,7 @@ input[type=button]:focus:active, input[type=submit]:focus:active {
 }
 
 #header #headerbox {
-    float:left;
+    float:right;
     width: 80%;
 }
 
@@ -239,6 +232,18 @@ input[type=button]:focus:active, input[type=submit]:focus:active {
     float: right;
     right: 20px;
     top: 20px;
+}
+
+#tgmenu {
+    position: relative;
+    float: right;
+    right: 20px;
+    top: 20px;
+    margin-left: 20px; 
+}
+
+.logo-menu{
+    margin-left: 20px;
 }
 
 #sb_Subsearch input[type=submit] {
@@ -762,7 +767,7 @@ input[type=button]:focus:active, input[type=submit]:focus:active {
 }
 
 .content-float {
-    margin: 20px 250px 0px 205px;
+    margin: 50px 250px 0px 205px;
 }
 
 .content-right-wild {

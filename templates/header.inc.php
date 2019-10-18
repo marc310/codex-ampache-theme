@@ -74,6 +74,8 @@ $_SESSION['login'] = false;
         <link rel="stylesheet" href="<?php echo $web_path; ?>/lib/components/datetimepicker/jquery.datetimepicker.css" type="text/css" media="screen" />
         <link rel="stylesheet" href="<?php echo $web_path; ?>/lib/components/jQuery-contextMenu/dist/jquery.contextMenu.min.css" type="text/css" media="screen" />
 
+        <link rel="stylesheet" href="<?php echo $web_path; ?>/lib/components/all.css">
+
         <script src="<?php echo $web_path; ?>/lib/components/jquery/jquery.min.js" language="javascript" type="text/javascript"></script>
         <script src="<?php echo $web_path; ?>/lib/components/jquery-ui/jquery-ui.min.js" language="javascript" type="text/javascript"></script>
         <script src="<?php echo $web_path; ?>/lib/components/prettyphoto/js/jquery.prettyPhoto.js" language="javascript" type="text/javascript"></script>
@@ -365,18 +367,24 @@ $_SESSION['login'] = false;
         <div id="notification" class="notification-out"><img src="<?php echo $web_path; ?>/images/icon_info.png" /><span id="notification-content"></span></div>
         <div id="maincontainer">
             <div id="header" class="header-<?php echo AmpConfig::get('ui_fixed') ? 'fixed' : 'float'; ?>"><!-- This is the header -->
-                <h1 id="headerlogo">
+                <h1 id="headerlogo" class="logo-menu">
                   <a href="<?php echo $web_path; ?>/index.php">
                     <img src="<?php echo UI::get_logo_url(); ?>" title="<?php echo AmpConfig::get('site_title'); ?>" alt="<?php echo AmpConfig::get('site_title'); ?>" />
                   </a>
                 </h1>
                 <div id="headerbox">
+
                     <?php 
                         UI::show_box_top('', 'box box_headerbox');
                         require_once AmpConfig::get('prefix') . UI::find_template('show_search_bar.inc.php');
                         if (User::is_registered()) {
                             require_once AmpConfig::get('prefix') . UI::find_template('show_playtype_switch.inc.php'); ?>
+
+                        <span id="tgmenu"><i class="fas fa-ellipsis-v"></i>
+                        </span>
+
                         <span id="loginInfo">
+                            <i class="fas fa-user"></i>
                             <a href="<?php echo $web_path; ?>/stats.php?action=show_user&user_id=<?php echo $GLOBALS['user']->id; ?>"><?php echo $GLOBALS['user']->fullname; ?></a>
                         <?php
                             if (AmpConfig::get('sociable')) {
@@ -401,7 +409,7 @@ $_SESSION['login'] = false;
                     <?php
                         }
                     ?>
-
+                        
                     <?php UI::show_box_bottom(); ?>
                 </div> <!-- End headerbox -->
             </div><!-- End header -->
